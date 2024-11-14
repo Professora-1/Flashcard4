@@ -5,7 +5,7 @@ root {
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: bg-desktop.webp;
     font-family: Bai Jamjuree;
 }
 
